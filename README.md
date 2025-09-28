@@ -1,4 +1,4 @@
-👋 Hello, こんにちは, 你好, السلام عليكم! I am Zaki, currently working full time as a Engineer, Data Analyst while pursuing a part-time Bachelor of Computer Science (Hons.) in Computer Networks at Universiti Teknologi MARA 🎓
+👋 Hello, こんにちは, 你好, السلام عليكم! I am Zaki, currently working full time as a Engineer, Data Analyst while pursuing a part-time Bachelor of Computer Science in Computer Networks at Universiti Teknologi MARA 🎓
 
 # 💫 About Me:
 👀 I’m interested in learning and explore new technologies <br>🌱 I’m currently learning to become a professional Data Analyst<br>🚀 Road to becoming a successful Data Engineer<br>😄 Pronouns: He/Him/His<br>
